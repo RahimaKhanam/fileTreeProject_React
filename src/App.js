@@ -9,7 +9,7 @@ function App() {
           <File name="palindrome.java" />
           <File name="anagram.java" />
           <File name="reverse_string.java" />
-          <File name="substring.mp4" />
+          <File name="substring.java" />
         </Folder>
         <Folder name="Python">
           <File name="largest_element.py" />
