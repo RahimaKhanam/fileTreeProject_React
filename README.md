@@ -7,11 +7,11 @@ I follow the concept of learning while building. And since I don't have any exis
 So, the project is based on the file-tree structure of folders and their files, just how PCs display the folders and it's content.
 
 
-### This is how it displays the representation:
+## This is how it displays the representation:
 
 ![](Screenshots/P3.png)
 
-### And this is how  we can navigate through it:
+## And this is how  we can navigate through it:
 
 
 ![file-tree gif](https://user-images.githubusercontent.com/76172860/116601598-4ed12180-a948-11eb-8023-747b0259893b.gif)
