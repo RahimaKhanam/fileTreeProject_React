@@ -1,4 +1,4 @@
-# Getting Started with <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+# Getting Started with <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height=30>
 
 React is a JavaScript-based library created by Facebook. It is a User Interface (UI) library tool for building UI components.
 
