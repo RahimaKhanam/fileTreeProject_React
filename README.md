@@ -1,6 +1,8 @@
 # Getting Started with React
 
-React 
+React is a JavaScript based library created by Facebook. It is a User Interface (UI) library tool for building UI components.
+
+
 
 ### This is the final outcome of my project:
 
